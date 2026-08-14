@@ -13,8 +13,8 @@ Built with SQL for exploratory analysis and Power BI for interactive visualizati
 ## Key Findings
 
 **1. Profitability by Region**
-West region leads in average profit per sale (~$33.85), while Central lags 
-significantly (~$17.09) despite comparable transaction volume.
+West region leads in average profit per sale ($33.85), while Central lags 
+significantly ($17.09) despite comparable transaction volume.
 
 **2. Category/Sub-Category Performance**
 3 sub-categories operate at a loss on average: Tables, Bookcases, and Supplies. 
